@@ -420,7 +420,7 @@
    <section class="hero-section">
     <div class="athlete-card neon-glow">
      <div class="energy-trail"></div>
-     <h1 class="athlete-name" id="athlete-name">VENKATESH BATHENA</h1>
+     <h1 class="athlete-name" id="athlete-name">Rohithkumar</h1>
      <p class="athlete-title" id="athlete-title">Cyber Security Student | Future Analyst | Digital Defender</p>
      <p class="hero-tagline" id="hero-tagline">Learning to defend the digital world, one skill at a time.</p>
     </div><!-- Stats Board -->
@@ -713,7 +713,7 @@
         Email
        </div>
        <div class="stat-value" id="email" style="font-size: 1rem;">
-        venkatesh.bathena@email.com
+        rohith.kumar@email.com
        </div>
       </div>
       <div class="stat-item">
@@ -752,10 +752,10 @@
         LinkedIn
        </div>
        <div class="achievement-desc" id="linkedin-handle">
-        @venkateshbathena
+        @rohithkumar
        </div>
       </div>
-      <div class="achievement-badge" style="cursor: pointer; position: relative;" onclick="window.open('https://github.com/venkateshbathena', '_blank', 'noopener,noreferrer')">
+      <div class="achievement-badge" style="cursor: pointer; position: relative;" onclick="window.open('https://github.com/rohithkumar', '_blank', 'noopener,noreferrer')">
        <div class="energy-trail"></div>
        <div style="font-size: 2.5rem; margin-bottom: 1rem;">
         💻
@@ -764,7 +764,7 @@
         GitHub
        </div>
        <div class="achievement-desc" id="github-handle">
-        @venkateshbathena
+        @rohithkumar
        </div>
       </div>
       <div class="achievement-badge" style="cursor: pointer; position: relative;" onclick="window.open('https://twitter.com/venkatesh_sec', '_blank', 'noopener,noreferrer')">
@@ -776,7 +776,7 @@
         Twitter
        </div>
        <div class="achievement-desc" id="twitter-handle">
-        @venkatesh_sec
+        @rohith_sec
        </div>
       </div>
       <div class="achievement-badge" style="cursor: pointer; position: relative;">
@@ -788,7 +788,7 @@
         Discord
        </div>
        <div class="achievement-desc" id="discord-handle">
-        VenkateshB#2024
+        rohith#2024
        </div>
       </div>
       <div class="achievement-badge" style="cursor: pointer; position: relative;" onclick="window.open('https://medium.com/@venkateshbathena', '_blank', 'noopener,noreferrer')">
@@ -800,7 +800,7 @@
         Medium
        </div>
        <div class="achievement-desc" id="medium-handle">
-        @venkateshbathena
+        @rohithkumar
        </div>
       </div>
       <div class="achievement-badge" style="cursor: pointer; position: relative;" onclick="window.open('https://youtube.com/@VenkateshCyber', '_blank', 'noopener,noreferrer')">
@@ -812,7 +812,7 @@
         YouTube
        </div>
        <div class="achievement-desc" id="youtube-handle">
-        VenkateshCyber
+        RohithCyber
        </div>
       </div>
      </div>
@@ -868,12 +868,12 @@
             email: "venkatesh.bathena@email.com",
             phone: "+91 98765 43210",
             location: "Hyderabad, India",
-            linkedin_handle: "@venkateshbathena",
-            github_handle: "@venkateshbathena",
-            twitter_handle: "@venkatesh_sec",
-            discord_handle: "VenkateshB#2024",
-            medium_handle: "@venkateshbathena",
-            youtube_handle: "VenkateshCyber"
+            linkedin_handle: "@rohithkumar",
+            github_handle: "@rohithkumar",
+            twitter_handle: "@rohith_sec",
+            discord_handle: "rohithk#2024",
+            medium_handle: "@rohith",
+            youtube_handle: "RohithCyber"
         };
 
         async function onConfigChange(config) {
